@@ -14,7 +14,7 @@ Aprender ingeniería confrontando problemas específicos y construyendo "artefac
 - **Hito 1:** ✅ Estructura del repositorio creada.
 - **Hito 2:** ✅ Módulo `balances.py` operativo. Flujos calculados: **F=3,845 kg/h**, **D=329 kg/h**, **B=3,516 kg/h**.
 - **Próximo Ataque:** Implementar cálculo de temperatura de burbuja (`thermo.py`).
-
+- **Hito 3:** ✅ Módulo `thermo.py` operativo. Implementa Antoine y cálculo de T_burbuja via Newton-Raphson.
 ## 📁 Estructura
 - `/src` - Código fuente (Python)
 - `/data` - Especificaciones y parámetros
