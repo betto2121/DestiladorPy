@@ -9,7 +9,11 @@ Aprender ingeniería confrontando problemas específicos y construyendo "artefac
 ## 📈 Estado Actual
 - **Fecha de Inicio:** $(date +%Y-%m-%d)
 - **Hito 1:** ✅ Estructura del repositorio creada.
-- **Próximo Ataque:** Implementar balances de masa (`src/balances.py`).
+- ## 📈 Estado Actual
+- **Fecha de Inicio:** 2024-03-20
+- **Hito 1:** ✅ Estructura del repositorio creada.
+- **Hito 2:** ✅ Módulo `balances.py` operativo. Flujos calculados: **F=3,845 kg/h**, **D=329 kg/h**, **B=3,516 kg/h**.
+- **Próximo Ataque:** Implementar cálculo de temperatura de burbuja (`thermo.py`).
 
 ## 📁 Estructura
 - `/src` - Código fuente (Python)
