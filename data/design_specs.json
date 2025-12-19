@@ -1,0 +1,12 @@
+{
+  "project_name": "Destilería Etanol 10kL_día",
+  "basis": {
+    "product_rate_L_per_day": 10000,
+    "operating_hours_per_year": 7920,
+    "feed_composition_xF": 0.08,
+    "distillate_composition_xD": 0.925,
+    "bottoms_composition_xB": 0.001,
+    "density_ethanol_kg_per_L": 0.789
+  },
+  "notes": "Benchmark industrial: 2500 ton caña -> 120000 L alcohol/día"
+}
